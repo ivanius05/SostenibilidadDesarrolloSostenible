@@ -12,14 +12,6 @@
 
 [1.6.- Evaluación del desempeño en sostenibilidad de las empresas](https://github.com/Alberto-Rodriguez999/SostenibilidadDesarrolloSostenible/blob/main/1.6%20Evaluaci%C3%B3n%20del%20desempe%C3%B1o%20en%20sostenibilidad%20de%20las%20empresas.md)
 
-Conclusiones
 
-Mapa conceptual (Herramientas utilizada)
-
-Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
-
-Referencias
-
-Autores
 
 
