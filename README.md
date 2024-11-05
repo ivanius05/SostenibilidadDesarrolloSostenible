@@ -1,6 +1,6 @@
 # ÍNDICE
 
-[1.1 Introducción.md](https://github.com/Alberto-Rodriguez999/SostenibilidadDesarrolloSostenible/blob/main/1.1%20Introducci%C3%B3n.md)
+[1.1 Introducción](https://github.com/Alberto-Rodriguez999/SostenibilidadDesarrolloSostenible/blob/main/1.1%20Introducci%C3%B3n.md)
 
 [1.2. Sostenibilidad y desarrollo sostenible](https://github.com/Alberto-Rodriguez999/SostenibilidadDesarrolloSostenible/blob/main/1.2%20Sostenibilidad%20y%20Desarrollo%20Sostenible.md)
 
